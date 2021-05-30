@@ -2,7 +2,7 @@
 echo "Prasanta"
 if [ $? -eq 0 ]
 then 
-echo "Success"
+MKDIR A B C
 else
 echo "false"
 fi
