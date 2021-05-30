@@ -1,5 +1,5 @@
 #!/bin/sh
-Echo "Prasanta"
+echo "Prasanta"
 if [ $? -eq 0 ]
 then 
 echo "Success"
