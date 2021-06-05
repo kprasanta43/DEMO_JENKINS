@@ -1,2 +1,2 @@
 #!/bin/sh
-mkdir a b c
+mkdir prasanta ram
