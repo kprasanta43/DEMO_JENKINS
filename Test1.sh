@@ -6,4 +6,5 @@ cd /home/ec2-user/GIT/DEMO_JENKINS
 mkdir  g h i j
 else
 echo "false"
+echo "true"
 fi
